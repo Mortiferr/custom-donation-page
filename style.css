@@ -1,0 +1,21 @@
+h1 {
+	text-align: center;
+}
+.dp-link {
+	border: 3px #1abc9c solid;
+	padding: 1em;
+	margin: 0.2em;
+	
+}
+.one-time {
+	margin-bottom: 1em;
+	border: 1px solid lightgrey;
+	padding: 0em 1em 2em 1em;
+	text-align: center;
+}
+.monthly {
+	margin-bottom: 3em;
+	border: 1px solid lightgrey;
+	padding: 0em 1em 2em 1em;
+	text-align: center;
+}
